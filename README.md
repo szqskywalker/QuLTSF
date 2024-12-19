@@ -1,4 +1,4 @@
-# QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning. [arxiv](https://arxiv.org/)
+# QuLTSF: Long-Term Time Series Forecasting with Quantum Machine Learning. [arxiv](https://arxiv.org/abs/2412.13769)
 
 
 
