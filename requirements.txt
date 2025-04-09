@@ -4,3 +4,4 @@ pandas
 scikit-learn
 torch==2.5.1
 PennyLane==0.37.0
+numpy
