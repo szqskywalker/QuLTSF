@@ -7,7 +7,7 @@ fi
 if [ ! -d "./logs/DLinear_pred_len_96_720" ]; then
     mkdir ./logs/DLinear_pred_len_96_720
 fi
-
+ 
 
 model_name=DLinear
 
