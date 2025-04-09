@@ -18,7 +18,7 @@
 sh scripts/QuLTSF_seq_len_336.sh
 ```
 It will start to train QuLTSF model with fixed sequence length 336 and varying prediction lengths.
-
+ 
 
 ## Acknowledgement
 
